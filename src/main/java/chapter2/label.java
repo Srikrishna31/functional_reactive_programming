@@ -3,10 +3,10 @@ package chapter2;
 /**
  * Created by coolk on 11-02-2017.
  */
-import javax.swing.*;
+import javax.swing.JFrame;
 import java.awt.FlowLayout;
-import swidgets.*;
-import nz.sodium.*;
+import swidgets.STextField;
+import swidgets.SLabel;
 
 public class label {
     public static void main(String[] args)
